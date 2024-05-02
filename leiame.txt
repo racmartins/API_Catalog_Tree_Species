@@ -1,0 +1,19 @@
+Pré Requisitos:
+
+BD mongoDB: esas_tree_species_db
+Base de Dados preenchida (com dados)
+
+Instalar node_modules através de npm install
+
+A presente versão da app não se encontra concluída: foi criada autenticação jwt e endpoints
+genéricos (ainda sem filtro) para acesso por parte de 1 app Frontend que escolhemos ser o React Native.
+
+Esta app depois de concluída será alojada num servidor de hosting e terá que estar permanentemente em 
+execução para que a App Frontend possa funcionar.
+
+Para executar em Localhost, fazer: nodemon index.js
+
+
+
+
+
